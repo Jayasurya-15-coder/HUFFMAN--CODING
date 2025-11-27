@@ -84,8 +84,7 @@ for char, code in huffman_codes.items():
 <br>
 <br>
 <br>
-## Result
-Thus the huffman coding was implemented to compress the data using python programming.
+
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
